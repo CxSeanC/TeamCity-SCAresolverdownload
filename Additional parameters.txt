@@ -1,0 +1,2 @@
+Necesary additional parameters for ScaResolver + TeamCity:
+--sca-resolver ./ScaResolver/ScaResolver
